@@ -1,0 +1,37 @@
+# Скомпилированные файлы приложения
+*.apk
+*.aar
+*.ap_
+*.aab
+*.dex
+*.class
+
+# Папки сборки и кэш Gradle
+build/
+.gradle/
+out/
+bin/
+gen/
+
+# Локальные настройки среды и пути к SDK
+local.properties
+
+# Файлы Android Studio / IntelliJ IDEA
+*.iml
+.idea/
+.navigation/
+captures/
+.cxx/
+.externalNativeBuild/
+
+# Логи и профилирование
+*.log
+*.hprof
+
+# Ключи подписи
+*.jks
+*.keystore
+
+# Системные файлы ОС
+.DS_Store
+Thumbs.db
